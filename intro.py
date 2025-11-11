@@ -71,6 +71,13 @@ print(type(str2))
 # print(str2)
 
 print('iti' and "ai")
+# all va
 
 
+# if = 10 #SyntaxError: invalid syntax
+
+print("iti")
+# print = "abc"
+# print("hello")
+str = "sff"
 
