@@ -1,4 +1,13 @@
 """
+Modules and Packages Demonstration
+===================================
+This file demonstrates how to import and use Python modules and packages.
+It covers:
+- Importing entire modules
+- Importing specific functions from modules
+- Importing from packages
+- Using aliases for imports
+- Package initialization behavior
 
     any .py file--> is called python module
     ==> you can import module // or part of it ??

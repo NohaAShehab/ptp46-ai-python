@@ -1,3 +1,13 @@
+"""
+Playground Module
+=================
+This file serves as a playground for testing and understanding Python functions.
+It demonstrates:
+- Basic function definitions and calls
+- Function execution and memory allocation
+- Return values and variable assignment
+
+"""
 
 def sayhello():
     print("hello world ")

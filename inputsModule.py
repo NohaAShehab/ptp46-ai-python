@@ -1,3 +1,12 @@
+"""
+Input Module
+============
+This module provides utility functions for getting validated user input.
+Contains functions to safely get string and integer inputs from the user
+with proper validation and error handling.
+Also demonstrates the use of __name__ == '__main__' pattern.
+"""
+
 print("************ welcome to inputs module ***********")
 trackname= "AI"
 def askForString(message="Please enter string: "):

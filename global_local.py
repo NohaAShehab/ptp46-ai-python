@@ -1,4 +1,12 @@
 """
+Global and Local Variable Scoping
+==================================
+This file demonstrates the concepts of global and local variable scoping in Python.
+It covers:
+- Global variables and how to access them
+- Using the 'global' keyword to modify global variables from within functions
+- Nested functions and the 'nonlocal' keyword
+- Variable scope in nested function hierarchies
 
 global variable can be accessed anywhere in the script
 if you want to modify it from inside function/ class
