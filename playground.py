@@ -26,3 +26,19 @@ def sumnum(num1, num2):
 
 total=sumnum(324,34)
 print(total)
+
+
+# # exit(2)
+# print(34/0)
+
+try:
+    num1 = int(input("please enter first number "))
+    num2 = int(input("please enter second number"))
+    res = num1/num2
+    print(res)
+    # you may receive exceptions from different types
+    # so may need to change how will you handle it .
+    # you can add more than one except ?
+except Exception as e :  # object contain exception details
+    print(f"--- error happened {e}")
+    print(e.__dict__,e.__repr__())
